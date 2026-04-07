@@ -1,6 +1,8 @@
-# Shivam Sports Website v2 (22-Page Premium Upgrade)
+🏏 Shivam Sports – Full Stack MERN E-Commerce Platform (v2)
 
-Advanced full-stack sports ecommerce + careers platform built with training-compliant technologies:
+A production-ready full-stack MERN application for a sports e-commerce and careers platform, built with scalable architecture, modern UI/UX practices, and modular backend APIs.
+
+This project goes beyond a basic store — it includes authentication, admin CMS, order tracking, content management, and deployment-ready architecture.
 
 - Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap
 - Backend: Node.js, Express, MongoDB, JWT auth
