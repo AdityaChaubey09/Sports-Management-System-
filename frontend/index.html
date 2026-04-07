@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shivam Sports India | Home</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@400;500;700;800&family=Noto+Sans+Devanagari:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div id="site-header"></div>
+
+    <main class="py-4">
+      <section class="container mb-3">
+        <div class="promo-ticker-wrap reveal">
+          <div class="promo-ticker">
+            <span id="homeTickerText"
+              >Made in India | Secure UPI Payments | Pan-India Shipping | Trusted by Indian Athletes</span
+            >
+          </div>
+        </div>
+      </section>
+
+      <section class="container mb-5">
+        <div class="hero-banner reveal">
+          <img
+            id="heroImage"
+            src="/assets/images/custom/home-hero.jpg"
+            alt="Shivam Sports hero players"
+            data-fallback-src="/assets/images/hero-sports.jpg"
+          />
+          <div class="hero-overlay">
+            <div class="hero-copy">
+              <h1 id="heroTitle">Play Beyond Limits</h1>
+              <p id="heroSubtitle">
+                Explore premium sports equipment, footwear and team kits made in India for Indian athletes.
+                Supporting grassroots sports across the nation.
+              </p>
+              <div class="d-flex flex-wrap gap-2">
+                <a id="heroCta" class="btn btn-primary-brand" href="products.html">Shop Products</a>
+                <a class="btn btn-outline-brand" href="careers.html">Join Our Team</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container mb-5">
+        <div class="stats-grid reveal">
+          <div class="stat-box">
+            <div id="homeStatCustomers" class="stat-value" data-counter-target="12000">0</div>
+            <p class="stat-label mb-0">Happy Customers</p>
+          </div>
+          <div class="stat-box">
+            <div id="homeStatProducts" class="stat-value" data-counter-target="1800">0</div>
+            <p class="stat-label mb-0">Products Listed</p>
+          </div>
+          <div class="stat-box">
+            <div id="homeStatYears" class="stat-value" data-counter-target="66">0</div>
+            <p class="stat-label mb-0">Years of Legacy</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="container mb-5">
+        <div class="d-flex justify-content-between align-items-end mb-3">
+          <div>
+            <h2 class="section-title">About Us</h2>
+            <p class="section-subtitle mb-0">66+ years of sports manufacturing experience</p>
+          </div>
+          <a class="btn btn-outline-brand btn-sm" href="about.html">Full Story</a>
+        </div>
+        <div class="glass-panel about-card reveal">
+          <p>
+            SHIVAM SPORTS SHOP is an exclusive online sports shop established by Shivam Enterprises Pvt.
+            Ltd. to provide the customers with the best quality sports equipment and services.
+          </p>
+          <div id="aboutMoreText">
+            <p>
+              Products are delivered directly from the manufacturer, ensuring latest production,
+              authenticity and better pricing. Customers can compare features and prices, track
+              order history, manage wish-list and use secure payment options.
+            </p>
+            <ul class="about-list">
+              <li>Fast, safe and secure shipping across India</li>
+              <li>Direct manufacturer communication for product clarity</li>
+              <li>Access to latest launches and dependable after-sales support</li>
+            </ul>
+          </div>
+          <button id="btnAboutToggle" class="btn btn-outline-brand btn-sm">Read More</button>
+        </div>
+      </section>
+
+      <section class="container mb-5">
+        <div class="d-flex justify-content-between align-items-end mb-3">
+          <div>
+            <h2 class="section-title">Book Your Sport Kits</h2>
+            <p class="section-subtitle mb-0">Shop by categories</p>
+          </div>
+          <a href="products.html" class="btn btn-primary-brand btn-sm">View All</a>
+        </div>
+        <div class="row" id="categoriesGrid"></div>
+      </section>
+
+      <section class="container mb-5">
+        <div class="d-flex justify-content-between align-items-end mb-3">
+          <div>
+            <h2 class="section-title">Featured Products</h2>
+            <p class="section-subtitle mb-0">Top quality picks for athletes</p>
+          </div>
+        </div>
+        <div class="row" id="featuredProducts"></div>
+      </section>
+
+      <section class="container mb-5">
+        <h2 class="section-title mb-2">Services</h2>
+        <p class="section-subtitle">Custom manufacturing, printing and bulk supply support</p>
+        <div class="row" id="homeServices"></div>
+      </section>
+
+      <section class="container mb-5">
+        <h2 class="section-title mb-2">Exclusive Brands</h2>
+        <p class="section-subtitle">Iconic labels from trusted sports ecosystems</p>
+        <div class="row" id="brandGrid"></div>
+      </section>
+
+      <section class="container mb-5">
+        <h2 class="section-title mb-2">Flat-Tering Offers</h2>
+        <p class="section-subtitle">Get the best deal before stock runs out</p>
+        <div class="offer-grid mb-3 reveal">
+          <a class="offer-box-link" href="offers.html?discount=80"><div class="offer-box">80% OFF</div></a>
+          <a class="offer-box-link" href="offers.html?discount=70"><div class="offer-box">70% OFF</div></a>
+          <a class="offer-box-link" href="offers.html?discount=60"><div class="offer-box">60% OFF</div></a>
+          <a class="offer-box-link" href="offers.html?discount=50"><div class="offer-box">50% OFF</div></a>
+          <a class="offer-box-link" href="offers.html?discount=40"><div class="offer-box">40% OFF</div></a>
+          <a class="offer-box-link" href="offers.html?discount=30"><div class="offer-box">30% OFF</div></a>
+        </div>
+        <div class="row" id="offersGrid"></div>
+      </section>
+
+      <section class="container mb-5">
+        <h2 class="section-title mb-3">What Customers Say</h2>
+        <div class="row" id="testimonialGrid"></div>
+      </section>
+
+      <section class="container mb-5">
+        <h2 class="section-title mb-3">Sale Highlights</h2>
+        <div class="row g-4">
+          <div class="col-md-6 reveal">
+            <a class="sale-banner d-block" href="offers.html" aria-label="Open sports offers">
+              <img src="/assets/images/pdf-pages/page-5.png" alt="Sale banner 1" />
+            </a>
+          </div>
+          <div class="col-md-6 reveal">
+            <a class="sale-banner d-block" href="offers.html" aria-label="Open sports offers">
+              <img src="/assets/images/pdf-extracted/img-89.png" alt="Sale banner 2" />
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script src="js/api.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/home.js"></script>
+  </body>
+</html>

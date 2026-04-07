@@ -1,0 +1,89 @@
+[
+  {
+    "name": "NIVIA Super Basketball Size 6",
+    "slug": "nivia-super-basketball-size-6",
+    "categorySlug": "basketball",
+    "brand": "NIVIA",
+    "description": "Durable match ball built for school and club training sessions across India.",
+    "price": 630,
+    "mrp": 675,
+    "stock": 40,
+    "imageUrls": ["/assets/images/pdf-extracted/img-29.jpeg"],
+    "gallery": [
+      "/assets/images/pdf-extracted/img-29.jpeg",
+      "/assets/images/pdf-extracted/img-37.jpeg",
+      "/assets/images/pdf-extracted/img-38.jpeg"
+    ],
+    "highlights": [
+      "High grip outer surface",
+      "Balanced bounce",
+      "Indoor and outdoor compatibility"
+    ],
+    "specs": [
+      { "label": "Size", "value": "6" },
+      { "label": "Material", "value": "Composite Rubber" },
+      { "label": "Use Case", "value": "Training and practice games" }
+    ],
+    "tags": ["basketball", "featured"],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "name": "VECTOR X Cricket Shoes Pro",
+    "slug": "vector-x-cricket-shoes-pro",
+    "categorySlug": "shoes",
+    "brand": "VECTOR X",
+    "description": "Premium cricket shoe with impact support and lightweight build for Indian pitches.",
+    "price": 5990,
+    "mrp": 6999,
+    "stock": 20,
+    "imageUrls": ["/assets/images/pdf-extracted/img-91.jpeg"],
+    "gallery": [
+      "/assets/images/pdf-extracted/img-91.jpeg",
+      "/assets/images/pdf-extracted/img-59.jpeg",
+      "/assets/images/pdf-extracted/img-60.jpeg"
+    ],
+    "highlights": [
+      "Cushioned sole",
+      "Secure lace lock",
+      "Non-slip grip profile"
+    ],
+    "specs": [
+      { "label": "Upper", "value": "Synthetic Mesh" },
+      { "label": "Outsole", "value": "Rubber compound grip" },
+      { "label": "Target", "value": "Competitive training" }
+    ],
+    "tags": ["shoes", "cricket"],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "name": "CEAT Tournament Tennis Racket",
+    "slug": "ceat-tournament-tennis-racket",
+    "categorySlug": "tennis",
+    "brand": "CEAT",
+    "description": "Tournament-grade racket with controlled power and comfort grip for Indian players.",
+    "price": 1799,
+    "mrp": 2299,
+    "stock": 35,
+    "imageUrls": ["/assets/images/pdf-extracted/img-56.jpeg"],
+    "gallery": [
+      "/assets/images/pdf-extracted/img-56.jpeg",
+      "/assets/images/pdf-extracted/img-65.png",
+      "/assets/images/pdf-pages/page-2.png"
+    ],
+    "highlights": [
+      "All-round frame balance",
+      "Comfort grip handle",
+      "Reinforced tension stability"
+    ],
+    "specs": [
+      { "label": "Weight", "value": "285 g" },
+      { "label": "Grip Size", "value": "G2" },
+      { "label": "Material", "value": "Graphite composite" }
+    ],
+    "tags": ["tennis", "racket"],
+    "isFeatured": true,
+    "isActive": true
+  }
+]

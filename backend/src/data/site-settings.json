@@ -1,0 +1,44 @@
+[
+  {
+    "key": "site.contact_email",
+    "group": "contact",
+    "value": "careers@shivamsports.in",
+    "isPublic": true
+  },
+  {
+    "key": "site.contact_phone",
+    "group": "contact",
+    "value": "+91 90000 00000",
+    "isPublic": true
+  },
+  {
+    "key": "site.address",
+    "group": "contact",
+    "value": "Shivam Enterprises, India",
+    "isPublic": true
+  },
+  {
+    "key": "home.marquee_text",
+    "group": "home",
+    "value": "Made in India | Secure UPI Payments | Pan-India Shipping | Trusted by Indian Athletes",
+    "isPublic": true
+  },
+  {
+    "key": "home.stat_customers",
+    "group": "home",
+    "value": 12000,
+    "isPublic": true
+  },
+  {
+    "key": "home.stat_products",
+    "group": "home",
+    "value": 1800,
+    "isPublic": true
+  },
+  {
+    "key": "home.stat_years",
+    "group": "home",
+    "value": 66,
+    "isPublic": true
+  }
+]

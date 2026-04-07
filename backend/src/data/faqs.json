@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How long does shipping usually take?",
+    "answer": "Standard delivery typically takes 3-7 business days based on destination.",
+    "category": "shipping",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "question": "Are products authentic and factory direct?",
+    "answer": "Yes, all products are supplied directly from authorized manufacturing channels.",
+    "category": "products",
+    "sortOrder": 2,
+    "isActive": true
+  },
+  {
+    "question": "Can I place bulk orders for schools or clubs?",
+    "answer": "Yes, bulk ordering is supported. Use contact page or service inquiry for quotation.",
+    "category": "bulk-orders",
+    "sortOrder": 3,
+    "isActive": true
+  },
+  {
+    "question": "What is the return policy timeline?",
+    "answer": "Eligible items can be requested for return within 7 days of delivery.",
+    "category": "returns",
+    "sortOrder": 4,
+    "isActive": true
+  }
+]

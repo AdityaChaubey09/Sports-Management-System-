@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Play Beyond Limits",
+    "subtitle": "Factory direct sports gear with premium value",
+    "imageUrl": "/assets/images/custom/home-hero.jpg",
+    "ctaText": "Shop Now",
+    "ctaUrl": "/products.html",
+    "placement": "home_hero",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "title": "Top Seasonal Offers",
+    "subtitle": "Save big on shoes, kits and accessories",
+    "imageUrl": "/assets/images/pdf-pages/page-5.png",
+    "ctaText": "View Offers",
+    "ctaUrl": "/offers.html",
+    "placement": "offers_top",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "title": "Trusted by Athletes",
+    "subtitle": "Quality manufacturing over 3 generations",
+    "imageUrl": "/assets/images/pdf-pages/page-1.png",
+    "ctaText": "About Us",
+    "ctaUrl": "/about.html",
+    "placement": "about_top",
+    "sortOrder": 1,
+    "isActive": true
+  }
+]

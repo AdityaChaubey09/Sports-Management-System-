@@ -1,0 +1,121 @@
+<!--
+  Shared header partial (loaded by common.js)
+  Includes primary navigation for all 22 pages.
+-->
+<header class="site-header shadow-sm">
+  <div class="top-stripe py-2">
+    <div class="container d-flex justify-content-between align-items-center">
+      <p class="mb-0 top-tagline">Shivam Sports - Bharat ka Premium Sports Ghar Since 1988</p>
+      <p class="mb-0 top-support">Help: <a href="mailto:careers@shivam.com">careers@shivam.com</a></p>
+    </div>
+  </div>
+  <nav class="navbar navbar-expand-lg navbar-dark main-nav">
+    <div class="container">
+      <a class="navbar-brand d-flex align-items-center gap-2" href="about.html" title="About Shivam Sports">
+        <picture class="brand-mark-shell">
+          <source srcset="/assets/images/custom/logo.png" type="image/png" />
+          <img
+            src="/assets/images/custom/logo.png"
+            alt="Shivam Sports Logo"
+            class="brand-mark"
+            data-fallback-src="/assets/images/hero-sports.jpg"
+          />
+        </picture>
+        <span class="brand-text-wrap">
+          <span class="brand-title">Shivam Sports</span>
+          <small>Premium Sports Since 1988</small>
+        </span>
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#mainNavbar"
+        aria-controls="mainNavbar"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNavbar">
+        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+          <li class="nav-item"><a class="nav-link" data-nav="index" href="index.html">Home</a></li>
+          <li class="nav-item has-submenu">
+            <a class="nav-link" data-nav="products" href="products.html">Products</a>
+            <ul class="nav-submenu list-unstyled">
+              <li><a class="nav-submenu-link" href="products.html">All Products</a></li>
+              <li><a class="nav-submenu-link" href="products.html?category=cricket">Cricket</a></li>
+              <li><a class="nav-submenu-link" href="products.html?category=football">Football</a></li>
+              <li><a class="nav-submenu-link" href="products.html?category=basketball">Basketball</a></li>
+              <li><a class="nav-submenu-link" href="products.html?category=tennis">Tennis</a></li>
+            </ul>
+          </li>
+          <li class="nav-item has-submenu">
+            <a class="nav-link" data-nav="shopping" href="cart.html">Shopping</a>
+            <ul class="nav-submenu list-unstyled">
+              <li><a class="nav-submenu-link" href="products.html">Browse Products</a></li>
+              <li>
+                <a class="nav-submenu-link" href="cart.html"
+                  >Cart <span id="navCartCount" class="badge bg-info text-dark">0</span></a
+                >
+              </li>
+              <li><a class="nav-submenu-link" href="checkout.html">Checkout</a></li>
+              <li><a class="nav-submenu-link" href="wishlist.html">Wishlist</a></li>
+            </ul>
+          </li>
+          <li class="nav-item has-submenu">
+            <a class="nav-link" data-nav="offers" href="offers.html">Offers</a>
+            <ul class="nav-submenu list-unstyled">
+              <li><a class="nav-submenu-link" href="offers.html">All Offers</a></li>
+              <li><a class="nav-submenu-link" href="offers.html?discount=80">Flat 80% OFF</a></li>
+              <li><a class="nav-submenu-link" href="offers.html?discount=70">Flat 70% OFF</a></li>
+              <li><a class="nav-submenu-link" href="offers.html?discount=60">Flat 60% OFF</a></li>
+              <li><a class="nav-submenu-link" href="offers.html?discount=50">Flat 50% OFF</a></li>
+            </ul>
+          </li>
+          <li class="nav-item has-submenu">
+            <a class="nav-link" data-nav="services" href="services.html">Services</a>
+            <ul class="nav-submenu list-unstyled">
+              <li><a class="nav-submenu-link" href="services.html">All Services</a></li>
+              <li><a class="nav-submenu-link" href="services.html">Custom Manufacturing</a></li>
+              <li><a class="nav-submenu-link" href="services.html">Bulk Team Orders</a></li>
+              <li><a class="nav-submenu-link" href="contact.html">Talk to Service Team</a></li>
+            </ul>
+          </li>
+          <li class="nav-item has-submenu">
+            <a class="nav-link" data-nav="about" href="about.html">About</a>
+            <ul class="nav-submenu list-unstyled">
+              <li><a class="nav-submenu-link" href="about.html">About Shivam Sports</a></li>
+              <li><a class="nav-submenu-link" href="about.html">Customer Voice</a></li>
+              <li><a class="nav-submenu-link" href="careers.html">Careers</a></li>
+              <li><a class="nav-submenu-link" href="contact.html">Contact Us</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"><a class="nav-link" data-nav="careers" href="careers.html">Careers</a></li>
+          <li class="nav-item has-submenu">
+            <a class="nav-link" data-nav="support" href="faq.html">Support</a>
+            <ul class="nav-submenu list-unstyled">
+              <li><a class="nav-submenu-link" href="faq.html">FAQ</a></li>
+              <li><a class="nav-submenu-link" href="shipping-policy.html">Shipping Policy</a></li>
+              <li><a class="nav-submenu-link" href="returns-policy.html">Returns Policy</a></li>
+              <li><a class="nav-submenu-link" href="privacy-policy.html">Privacy Policy</a></li>
+              <li><a class="nav-submenu-link" href="terms.html">Terms & Conditions</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"><a class="nav-link" data-nav="contact" href="contact.html">Contact</a></li>
+          <li class="nav-item has-submenu">
+            <a class="nav-link" data-nav="account" href="profile.html">My Account</a>
+            <ul class="nav-submenu list-unstyled">
+              <li><a class="nav-submenu-link" href="profile.html">Profile</a></li>
+              <li><a class="nav-submenu-link" href="orders.html">My Orders</a></li>
+              <li><a class="nav-submenu-link" href="wishlist.html">Wishlist</a></li>
+              <li><a class="nav-submenu-link" href="order-track.html">Track Order</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"><a class="nav-link" data-nav="admin" href="admin.html">Admin</a></li>
+        </ul>
+        <div class="d-flex align-items-center gap-2" id="navAuthLinks"></div>
+      </div>
+    </div>
+  </nav>
+</header>

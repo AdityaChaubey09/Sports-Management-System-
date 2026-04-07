@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Custom Team Jersey Service",
+    "description": "Manufacturing and printing service for Indian schools, clubs and corporate teams with traditional designs.",
+    "imageUrl": "/assets/images/pdf-pages/page-3.png",
+    "ctaText": "Book Service",
+    "ctaUrl": "/services.html",
+    "isActive": true
+  },
+  {
+    "title": "Bulk Sports Kit Consultation",
+    "description": "Expert recommendation for Indian schools, clubs and academies with budget alignment for all states.",
+    "imageUrl": "/assets/images/pdf-pages/page-2.png",
+    "ctaText": "Get Consultation",
+    "ctaUrl": "/contact.html",
+    "isActive": true
+  },
+  {
+    "title": "Pan-India Shipping Support",
+    "description": "Fast and secure shipping across all Indian states with real-time tracking for every order.",
+    "imageUrl": "/assets/images/pdf-pages/page-5.png",
+    "ctaText": "Learn More",
+    "ctaUrl": "/shipping-policy.html",
+    "isActive": true
+  }
+]

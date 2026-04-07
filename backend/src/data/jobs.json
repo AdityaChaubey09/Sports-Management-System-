@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Account Executive",
+    "department": "Finance",
+    "experienceText": "4 to 6 years",
+    "skillSummary": "Financial accounting, bookkeeping, GST/TDS compliance, payroll management, Excel and Tally/ERP.",
+    "details": "Handle accounting entries, reconciliations, tax data and monthly reports.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "title": "Web Developer",
+    "department": "Technology",
+    "experienceText": "2 to 5 years",
+    "skillSummary": "HTML, CSS, JavaScript, jQuery, Bootstrap, REST APIs and responsive UI.",
+    "details": "Implement storefront features and optimize user experience across devices.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 2,
+    "isActive": true
+  },
+  {
+    "title": "HR Executive",
+    "department": "Human Resources",
+    "experienceText": "2 to 4 years",
+    "skillSummary": "Recruitment operations, onboarding process, policy communication and HR documentation.",
+    "details": "Support talent acquisition and employee lifecycle management.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 3,
+    "isActive": true
+  },
+  {
+    "title": "Admin Executive",
+    "department": "Administration",
+    "experienceText": "2 to 5 years",
+    "skillSummary": "Facility handling, vendor coordination, office process control and reporting.",
+    "details": "Manage day to day office operations and cross-team admin support.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 4,
+    "isActive": true
+  },
+  {
+    "title": "Graphics Designer",
+    "department": "Creative",
+    "experienceText": "2 to 5 years",
+    "skillSummary": "Brand creatives, campaign banners, social media assets and design tools.",
+    "details": "Build visual assets for ecommerce pages and marketing campaigns.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 5,
+    "isActive": true
+  },
+  {
+    "title": "Frontdesk Executive",
+    "department": "Operations",
+    "experienceText": "1 to 3 years",
+    "skillSummary": "Reception handling, call management, visitor coordination and communication skills.",
+    "details": "Manage front desk workflows and professional visitor interactions.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 6,
+    "isActive": true
+  },
+  {
+    "title": "BD Executive",
+    "department": "Business Development",
+    "experienceText": "2 to 5 years",
+    "skillSummary": "Lead generation, client communication, proposal handling and pipeline tracking.",
+    "details": "Expand business opportunities through proactive outreach and relationship management.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 7,
+    "isActive": true
+  },
+  {
+    "title": "Sales Manager",
+    "department": "Sales",
+    "experienceText": "4 to 8 years",
+    "skillSummary": "Sales target planning, team leadership, forecasting and strategic channel growth.",
+    "details": "Drive revenue and manage sales execution performance.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 8,
+    "isActive": true
+  },
+  {
+    "title": "Marketing Executive",
+    "department": "Marketing",
+    "experienceText": "2 to 5 years",
+    "skillSummary": "Campaign execution, channel analytics, social media and demand generation.",
+    "details": "Plan and execute digital marketing initiatives for brand growth.",
+    "contactEmail": "careers@shivam.com",
+    "sortOrder": 9,
+    "isActive": true
+  }
+]

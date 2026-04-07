@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "about",
+    "title": "About Shivam Sports",
+    "hero": {
+      "eyebrow": "About Us",
+      "heading": "Three Generations of Sports Manufacturing",
+      "subheading": "Factory-direct quality, trusted service, and athlete-first product design.",
+      "imageUrl": "/assets/images/pdf-pages/page-1.png"
+    },
+    "richText": "<p>SHIVAM SPORTS SHOP is an exclusive online sports shop established by Shivam Enterprises Pvt. Ltd. to provide customers with the best quality sports equipment and services. With over 66 years of experience across 3 generations, we continue to focus on quality and trust.</p><p>Our products are delivered directly from manufacturer channels, ensuring authenticity, latest production, and dependable support.</p>",
+    "faqQuestions": ["Are products authentic and factory direct?", "Can I place bulk orders for schools or clubs?"],
+    "cta": {
+      "text": "Explore Products",
+      "url": "/products.html",
+      "style": "primary"
+    },
+    "seo": {
+      "title": "About Shivam Sports",
+      "description": "Know more about Shivam Sports legacy, quality and services.",
+      "keywords": ["sports equipment", "shivam", "about"]
+    },
+    "isActive": true
+  },
+  {
+    "slug": "shipping-policy",
+    "title": "Shipping Policy",
+    "hero": {
+      "eyebrow": "Policy",
+      "heading": "Shipping and Delivery",
+      "subheading": "Transparent timelines and secure dispatch process.",
+      "imageUrl": "/assets/images/pdf-pages/page-5.png"
+    },
+    "richText": "<p>Orders are processed after payment confirmation. Shipping timelines vary by location and stock availability. Tracking information is shared once dispatch is completed.</p><ul><li>Standard shipping: 3-7 business days</li><li>Remote areas: may take longer based on courier route</li><li>Delays due to weather/public holidays may occur</li></ul>",
+    "faqQuestions": ["How long does shipping usually take?"],
+    "cta": {
+      "text": "Track Your Order",
+      "url": "/order-track.html",
+      "style": "primary"
+    },
+    "isActive": true
+  },
+  {
+    "slug": "returns-policy",
+    "title": "Returns Policy",
+    "hero": {
+      "eyebrow": "Policy",
+      "heading": "Returns and Replacements",
+      "subheading": "Simple process for eligible return requests.",
+      "imageUrl": "/assets/images/pdf-pages/page-4.png"
+    },
+    "richText": "<p>Customers can request return for eligible items within policy window if product is unused and in original packaging. Consumables, customized products, and damaged-by-use products are not eligible.</p>",
+    "faqQuestions": ["What is the return policy timeline?"],
+    "cta": {
+      "text": "Contact Support",
+      "url": "/contact.html",
+      "style": "outline"
+    },
+    "isActive": true
+  },
+  {
+    "slug": "privacy-policy",
+    "title": "Privacy Policy",
+    "hero": {
+      "eyebrow": "Policy",
+      "heading": "Your Data, Your Trust",
+      "subheading": "How we collect and process customer information.",
+      "imageUrl": "/assets/images/pdf-pages/page-6.png"
+    },
+    "richText": "<p>We collect only essential customer information for order processing, support, and account management. We do not sell customer data to third parties.</p><p>Payment processing is handled through trusted gateways with secure encryption controls.</p>",
+    "faqQuestions": [],
+    "cta": {
+      "text": "Read Terms",
+      "url": "/terms.html",
+      "style": "outline"
+    },
+    "isActive": true
+  },
+  {
+    "slug": "terms",
+    "title": "Terms and Conditions",
+    "hero": {
+      "eyebrow": "Legal",
+      "heading": "Terms of Use",
+      "subheading": "Rules for accessing and purchasing through our platform.",
+      "imageUrl": "/assets/images/pdf-pages/page-1.png"
+    },
+    "richText": "<p>By using this website, you agree to comply with our terms regarding user conduct, payment handling, pricing, and return conditions. We reserve the right to update policies without prior notice.</p>",
+    "faqQuestions": [],
+    "cta": {
+      "text": "Need Help?",
+      "url": "/faq.html",
+      "style": "primary"
+    },
+    "isActive": true
+  }
+]

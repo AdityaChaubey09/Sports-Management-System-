@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Rahul Verma",
+    "role": "School Coach",
+    "quote": "Excellent product quality and fast shipping for our inter-school tournaments.",
+    "rating": 5,
+    "avatarUrl": "/assets/images/pdf-extracted/img-67.jpeg",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "name": "Meera Sharma",
+    "role": "Fitness Trainer",
+    "quote": "The pricing and reliability are better than most suppliers we tried before.",
+    "rating": 5,
+    "avatarUrl": "/assets/images/pdf-extracted/img-67.jpeg",
+    "sortOrder": 2,
+    "isActive": true
+  },
+  {
+    "name": "Amit Joshi",
+    "role": "Basketball Enthusiast",
+    "quote": "Loved the checkout experience and the original quality of COSCO products.",
+    "rating": 4,
+    "avatarUrl": "/assets/images/pdf-extracted/img-67.jpeg",
+    "sortOrder": 3,
+    "isActive": true
+  }
+]

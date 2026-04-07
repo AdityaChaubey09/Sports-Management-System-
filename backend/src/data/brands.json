@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NIVIA",
+    "logoUrl": "/assets/images/pdf-extracted/img-68.png",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "name": "VECTOR X",
+    "logoUrl": "/assets/images/pdf-extracted/img-84.png",
+    "sortOrder": 2,
+    "isActive": true
+  },
+  {
+    "name": "CEAT",
+    "logoUrl": "/assets/images/pdf-extracted/img-84.png",
+    "sortOrder": 3,
+    "isActive": true
+  },
+  {
+    "name": "SHIVAM SPORTS",
+    "logoUrl": "/assets/images/hero-sports.jpg",
+    "sortOrder": 4,
+    "isActive": true
+  }
+]

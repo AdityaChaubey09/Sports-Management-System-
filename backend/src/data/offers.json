@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Mega Flat Deal",
+    "subtitle": "Flat 80% OFF",
+    "bannerImageUrl": "/assets/images/pdf-pages/page-4.png",
+    "discountPercent": 80,
+    "promoCode": "ALAY80",
+    "isActive": true
+  },
+  {
+    "title": "Festival Sports Sale",
+    "subtitle": "Up to 70% OFF",
+    "bannerImageUrl": "/assets/images/pdf-pages/page-5.png",
+    "discountPercent": 70,
+    "promoCode": "SAVE70",
+    "isActive": true
+  },
+  {
+    "title": "Team Kit Offer",
+    "subtitle": "Bulk order 50% OFF",
+    "bannerImageUrl": "/assets/images/pdf-extracted/img-89.png",
+    "discountPercent": 50,
+    "promoCode": "TEAM50",
+    "isActive": true
+  }
+]
